@@ -1,0 +1,4 @@
+
+sail art livewire:layout
+sail art make:livewire pages::posts.create --mfc
+sail art make:livewire posts.create
